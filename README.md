@@ -34,9 +34,7 @@ Queda vinculada por estas condiciones toda persona física o jurídica e incluso
 Al acceder a los Datos, el Usuario está reconociendo implícitamente y garantiza que tiene plena capacidad para aceptar y cumplir las presentes condiciones de uso, las cuales bajo su responsabilidad debe haber consultado de forma previa.
 </p>
 
-<p align="justify">
 +Condiciones generales+
-</p>
 
 <p align="justify">
 Se permite el uso de los Datos de forma libre, no exclusiva y por tiempo ilimitado. El Usuario, podrá a título meramente enunciativo y no exhaustivo:
