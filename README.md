@@ -39,4 +39,12 @@ Al acceder a los Datos, el Usuario está reconociendo implícitamente y garantiz
 **Condiciones generales**
 
 Se permite el uso de los Datos de forma libre, no exclusiva y por tiempo ilimitado. El Usuario, podrá a título meramente enunciativo y no exhaustivo:
+
+ - Descargar, copiar y almacenar los Datos en cualquier formato y soporte. 
+ - Tratar los Datos, adaptándolos o modificándolos, reordenándolos y combinándolos en su caso.
+ - Compartir y difundir los Datos originales o una vez modificados, indicando en este segundo caso que los Datos han sido previamente tratados y la obligatoriedad de que sean utilizados conforme a las normas previstas en el presente documento.
+ - Realizar cualquier actividad análoga o de similar naturaleza a las anteriormente detalladas.
+La utilización de los Datos podrá hacerse con cualquier finalidad, siempre dentro del marco legal vigente en cada momento, con estricto cumplimiento de la normativa en materia penal,  de propiedad intelectual, de protección de datos de carácter personal, o de cualquier otro ámbito, que resulte de aplicación.
+
+
 </p>
