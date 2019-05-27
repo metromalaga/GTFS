@@ -36,7 +36,7 @@ Al acceder a los Datos, el Usuario está reconociendo implícitamente y garantiz
 
 <p align="justify">
 
-Condiciones generales
+**Condiciones generales**
 
 Se permite el uso de los Datos de forma libre, no exclusiva y por tiempo ilimitado. El Usuario, podrá a título meramente enunciativo y no exhaustivo:
 </p>
