@@ -35,7 +35,7 @@ Al acceder a los Datos, el Usuario está reconociendo implícitamente y garantiz
 </p>
 
 <p align="justify">
-__Condiciones generales__
++Condiciones generales+
 </p>
 
 <p align="justify">
