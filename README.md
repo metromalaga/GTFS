@@ -1,6 +1,4 @@
-<p align="center">
 # ACCESO A DATOS PÚBLICOS DE METRO MÁLAGA LICENCIA Y CONDICIONES DE USO
-</p>
 
 <p align="justify">
 Metro de Málaga, S.A. (en adelante, "Metro Málaga"), es la sociedad adjudicataria del contrato de concesión para la construcción y explotación de las Líneas 1 y 2 del Metro de Málaga. En virtud del mismo, presta un servicio público de transporte de viajeros en la ciudad de Málaga. Como Administración condecente, la Consejería de Fomento, Infraestructuras y Ordenación del Territorio ha delegado sus funciones en la Agencia de Obra Pública de la Junta de Andalucía.
