@@ -50,15 +50,21 @@ Se permite el uso de los Datos de forma libre, no exclusiva y por tiempo ilimita
 
 <p align="justify">
 a) El Usuario no podrá hacer un uso de los Datos que implique una desvirtuación del sentido de la información contenida en los mismos. Por tanto, está obligado a:
+</p>
 
  - No falsear la información ni realizar cualquier tipo de manipulación de mala fe.
- - No utilizar la información para menoscabar o dañar la imagen pública de Metro Málaga o el sistema de transportes públicos en general.
+ - <p align="justify">No utilizar la información para menoscabar o dañar la imagen pública de Metro Málaga o el sistema de transportes públicos en general.</p>
  - No utilizar la información con fines que atenten contra la seguridad de las personas o las cosas, ni en ámbitos en los que pueda relacionarse con actos ilegales o intenciones de sabotaje hacia Metro Málaga o hacia otras entidades, organizaciones o personas relacionadas con el sector.
 
+<p align="justify">
 b) Deberá conservar, sin alteraciones ni supresiones los metadatos sobre la fecha de actualización y las condiciones de utilización aplicables incluidos, en su caso, como atributos complementarios a la información puesta a disposición para su utilización.
+</p>
 
+<p align="justify">
 c) En cualquier alusión a los Datos, debe citarse a Metro Málaga como fuente de los mismos, incluyendo el enlace a la web o a la plataforma de la que se hayan extraído. Deberá asimismo indicar expresamente si se trata de los Datos originales o si la información compartida es fruto de una manipulación de éstos. 
+</p>
 
+<p align="justify">
 d) No podrá indicar expresamente, ni tampoco insinuar o sugerir que Metro Málaga, como titular de la información utilizada, participa, patrocina o apoya expresamente el producto final del Usuario, salvo que Metro Málaga así lo haya autorizado de forma previa y expresa.
 </p>
 
@@ -66,10 +72,16 @@ d) No podrá indicar expresamente, ni tampoco insinuar o sugerir que Metro Mála
 
 <p align="justify">
 a) Metro Málaga se reserva el derecho de poder realizar cualquier modificación en sus sistemas de datos abiertos, tanto en su interfaz de acceso y uso, como en su contenido y diseño. El Usuario deberá en su caso realizar la actualización y adaptación de su sistema necesaria para la correcta integración con la información publicada por Metro Málaga.
+</p>
 
+<p align="justify">
 b) Metro Málaga garantiza la titularidad y veracidad de los Datos. No obstante, no puede garantizar la disponibilidad de forma continua ni ininterrumpida de la información publicada, ni en contenido ni en forma, no asumiendo por tanto responsabilidad alguna por cualquier error u omisión en los Datos.
+</p>
 
+<p align="justify">
 c) El Usuario utilizará los Datos bajo su propia cuenta y riesgo, respondiendo directamente frente a terceros de cualesquiera daños o perjuicios pudieran derivarse de tal uso. Metro Málaga no tendrá responsabilidad alguna sobre el uso que de los Datos realice el Usuario. En particular, no responderá por los daños y perjuicios, ya sea económico o de cualquier otra índole que el propio Usuario o terceros puedan sufrir a consecuencia de la utilización de los Datos.
+</p>
 
+<p align="justify">
 La presente licencia de uso se regirá e interpretará conforme al derecho español. Las Partes, con renuncia expresa a cualquier otro fuero que en Derecho les pudiera corresponder, someten expresamente a la competencia de los juzgados y tribunales de la ciudad de Málaga la resolución de cualquier cuestión, discrepancia, controversia o reclamación que puedan surgir con respecto a la ejecución, interpretación o cumplimiento de las condiciones aquí expuestas, incluso aquellas referidas a obligaciones no indicadas expresamente pero que surjan de las mismas o estén relacionadas con ellas.
 </p>
