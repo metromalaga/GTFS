@@ -11,3 +11,13 @@ En el desarrollo de su actividad, genera una información sobre el servicio de t
 <p align="justify">
 Las presentes condiciones rigen la publicación y utilización de datos abiertos disponibles de Metro Málaga.
 </p>
+
+## i. Ámbito objetivo
+
+<p align="justify">
+Las presentes condiciones de uso rigen la utilización de los Datos de Metro Málaga, ya sea con fines comerciales o no comerciales, públicos o privados.
+</p>
+
+<p align="justify">
+Por Datos se entiende toda la información alojada en los soportes públicos antes mencionados o cualesquiera equivalentes que en un futuro puedan sustituirles, cualquiera que sea su soporte o forma de expresión, sea esta textual, gráfica, sonora visual o audiovisual, incluyendo los metadatos asociados y los datos contenidos con los niveles más elevados de precisión y desagregación.
+</p>
