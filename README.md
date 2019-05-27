@@ -5,7 +5,7 @@ Metro de Málaga, S.A. (en adelante, "Metro Málaga"), es la sociedad adjudicata
 </p>
 
 <p align="justify">
-En el desarrollo de su actividad, genera una información sobre el servicio de transporte de  que puede resultar de interés general para terceros, información que puede ser utilizada para la elaboración de productos y servicios innovadores, de valor añadido para la sociedad. Por esta razón, MM ha optado por permitir el acceso a estos datos publicando los mismos con carácter abierto tanto en su web pública (www.metromalaga.es) como en la plataforma compartida con otros medios de transporte  alojada en la web [http://transitfeeds.com/](http://transitfeeds.com/) (en adelante, "los Datos").
+En el desarrollo de su actividad, genera una información sobre el servicio de transporte de  que puede resultar de interés general para terceros, información que puede ser utilizada para la elaboración de productos y servicios innovadores, de valor añadido para la sociedad. Por esta razón, MM ha optado por permitir el acceso a estos datos publicando los mismos con carácter abierto tanto en su web pública (www.metromalaga.es) como en la plataforma compartida con otros medios de transporte  alojada en la web [http://transitfeeds.com/p/metro-de-malaga](http://transitfeeds.com/) (en adelante, "los Datos").
 </p>
 
 <p align="justify">
